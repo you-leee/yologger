@@ -1,0 +1,17 @@
+{
+  "name": "Yologger",
+  "version": "1.0.0",
+  "description": "Basic logger with level and output configuration options",
+  "dependencies": {
+    "colors": "^1.0.3"
+  },
+  "author": "Júlia Joósz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/you-leee/yologger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/you-leee/yologger/issues"
+  },
+  "homepage": "https://github.com/you-leee/yologger"
+}
